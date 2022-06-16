@@ -48,3 +48,7 @@ Matthew Emsak
 Marielle Nolasco
 
 Marielle's RPA Batch 4-25-22
+
+License
+
+This project uses the following license: MIT.
