@@ -49,6 +49,6 @@ Marielle Nolasco
 
 Marielle's RPA Batch 4-25-22
 
-License
+<strong>License</strong>
 
 This project uses the following license: MIT.
