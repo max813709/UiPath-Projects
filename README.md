@@ -38,9 +38,9 @@ Using UI Attended Automation enter the simulated customer information into the P
 
 Purchase orders and using UI Automation and Excel Automation writes the purchase orders onto an Excel file.
 
-Write a profit report using email automation and excel automation to include the items purchased, the subtotal, the service fee and the purchase total for the entire order for each customer.
+Writes a profit report using email automation and excel automation to include the items purchased, the subtotal, the service fee and the purchase total for the entire order for each customer.
 
-Write a profit report for all simulated customers that is automated to be emailed to the user.
+Writes a profit report for all simulated customers that is automated to be emailed to the user.
 
 ## <strong>Contributors</strong>
 
