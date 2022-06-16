@@ -3,7 +3,7 @@
 
 A robotic shopping assistant.
 
-## <strong>Technologies Used:</strong>
+## <strong>Technologies Used</strong>
 
 [UiPath Studio 2020.10.7+](https://www.uipath.com/product/studio): Development environment.
 
