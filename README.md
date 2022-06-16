@@ -36,7 +36,7 @@ Proceeds to scrape from the SQL database containing all of the simulated custome
 
 Using UI Attended Automation enter the simulated customer information into the Pega website.
 
-Purchase orders and using UI Automation and Excel Automation Write the purchase orders onto an Excel file.
+Purchase orders and using UI Automation and Excel Automation writes the purchase orders onto an Excel file.
 
 Write a profit report using email automation and excel automation to include the items purchased, the subtotal, the service fee and the purchase total for the entire order for each customer.
 
