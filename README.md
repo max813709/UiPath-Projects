@@ -9,7 +9,7 @@ UiPath Studio 2020.10.7+: Development environment.
 
 Pega: a simulated purchase order website.
 
-Microsoft SQL Server: A Database to store customer shopping lists/identifying information.
+Microsoft SQL Server: A database to store customer shopping lists/identifying information.
 
 Microsoft Excel Sheet: A media used to store customer reciepts for email automation and record keeping.
 
