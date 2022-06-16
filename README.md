@@ -34,7 +34,7 @@ Proceed to scrape from the SQL database containing all of the simulated customer
 
 ![]()<img width="568" alt="image" src="https://user-images.githubusercontent.com/104387212/174142675-bbfc06bd-1685-4c81-9958-5623457c679a.png">
 
-Using UI Attended Automation enter the simulatedcustomer information into the Pega website.
+Using UI Attended Automation enter the simulated customer information into the Pega website.
 
 Purchase orders and using UI Automation and Excel Automation Write the purchase orders onto an Excel file.
 
