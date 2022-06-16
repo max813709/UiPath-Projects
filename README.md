@@ -5,7 +5,7 @@ A robotic shopping assistant.
 
 ## <strong>Technologies Used:</strong>
 
-UiPath Studio 2020.10.7+: Development environment.
+[UiPath Studio 2020.10.7+](https://www.uipath.com/product/studio): Development environment.
 
 [Pega](https://training.openspan.com/login): a simulated purchase order website.
 
