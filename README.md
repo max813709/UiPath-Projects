@@ -28,7 +28,7 @@ Set up a SQL database containing all of the simulated customer orders
 
 ![]()<img width="723" alt="image" src="https://user-images.githubusercontent.com/104387212/174142399-2b04dd51-7e14-4e78-aa12-be581b698770.png">
 
-Scrape shopping order items from the database and using UI Attended Automation order from the Pega website.
+Scrape shopping order items from the database and using UI Attended Automation orders from the Pega website.
 
 Proceed to scrape from the SQL database containing all of the simulated customer information.
 
