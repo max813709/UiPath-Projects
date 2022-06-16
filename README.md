@@ -9,7 +9,7 @@ A robotic shopping assistant.
 
 [Pega](https://training.openspan.com/login): a simulated purchase order website.
 
-Microsoft SQL Server: A database to store customer shopping lists/identifying information.
+[Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): A database to store customer shopping lists/identifying information.
 
 Microsoft Excel Sheet: A media used to store customer reciepts for email automation and record keeping.
 
