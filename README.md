@@ -39,7 +39,7 @@ Purchase orders and using UI Automation and Excel Automation Write the Purchase 
 
 Write a profit report using email automation and excel automation to include the items purchased, the subtotal, the service fee and the purchase total for the entire order for each customer.
 
-Write a Profit report for all customers that is automated to be emailed to the user.
+Write a profit report for all customers that is automated to be emailed to the user.
 
 <strong>Contributors</strong>
 
