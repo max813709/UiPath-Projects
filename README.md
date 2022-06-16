@@ -46,7 +46,7 @@ Write a profit report for all simulated customers that is automated to be emaile
 
 Matthew Emsak
 
-Marielle Nolasco
+Marielle Nolasco (trainer)
 
 Marielle's RPA Batch 4-25-22
 
