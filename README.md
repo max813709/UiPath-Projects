@@ -1,9 +1,9 @@
 
-(#)<strong>RoSA Bot</strong>
+# <strong>RoSA Bot</strong>
 
 A robotic shopping assistant.
 
-(#)<strong>Technologies Used:</strong>
+# <strong>Technologies Used:</strong>
 
 UiPath Studio 2020.10.7+: Development environment.
 
