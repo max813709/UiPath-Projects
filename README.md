@@ -22,13 +22,13 @@ Getting Started
 
 Set up a SQL database containing all of the customer orders
 
-![]()<img width="723" alt="image" src="https://user-images.githubusercontent.com/104387212/174142399-2b04dd51-7e14-4e78-aa12-be581b698770.png">()[]!
+![]()<img width="723" alt="image" src="https://user-images.githubusercontent.com/104387212/174142399-2b04dd51-7e14-4e78-aa12-be581b698770.png">
 
 Scrape shopping order items from the database and using UI Attended Automation order from the Pega website.
 
 Proceed to scrape from the SQL database containing all of the customer information.
 
-![]()<img width="568" alt="image" src="https://user-images.githubusercontent.com/104387212/174142675-bbfc06bd-1685-4c81-9958-5623457c679a.png">()[]!
+![]()<img width="568" alt="image" src="https://user-images.githubusercontent.com/104387212/174142675-bbfc06bd-1685-4c81-9958-5623457c679a.png">
 
 Using UI Attended Automation enter the customer information into the Pega website.
 
