@@ -5,8 +5,11 @@ A robotic shopping assistant.
 Technologies Used:
 
 UiPath Studio 2020.10.7+: Development environment.
+
 Pega: a simulated purchase order website.
+
 Microsoft SQL Server: A Database to store customer shopping lists/identifying information.
+
 Microsoft Excel Sheet: A media used to store customer reciepts for email automation and record keeping.
 
 Features
@@ -39,6 +42,9 @@ Write a profit report using email automation and excel automation to include the
 Write a Profit report for all customers that is automated to be emailed to the user.
 
 Contributors
+
 Matthew Emsak
+
 Marielle Nolesco
+
 Marielle's RPA Batch 4-25-22
