@@ -45,6 +45,6 @@ Write a profit report for all customers that is automated to be emailed to the u
 
 Matthew Emsak
 
-Marielle Nolesco
+Marielle Nolasco
 
 Marielle's RPA Batch 4-25-22
