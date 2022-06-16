@@ -7,7 +7,7 @@ A robotic shopping assistant.
 
 UiPath Studio 2020.10.7+: Development environment.
 
-Pega: a simulated purchase order website.
+[Pega](https://training.openspan.com/login): a simulated purchase order website.
 
 Microsoft SQL Server: A database to store customer shopping lists/identifying information.
 
