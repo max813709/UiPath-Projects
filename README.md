@@ -48,7 +48,7 @@ Matthew Emsak
 
 Marielle Nolasco (trainer)
 
-Marielle's RPA Batch 4-25-22
+Marielle's RPA Batch 4.25.22
 
 ## <strong>License</strong>
 
