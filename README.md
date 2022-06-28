@@ -11,7 +11,7 @@ A robotic shopping assistant.
 
 [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): A database to store customer shopping lists/identifying information.
 
-Microsoft Excel: A media used to store customer reciepts for email automation and record keeping.
+Microsoft Excel: A media used to store customer receipts for email automation and record keeping.
 
 ## <strong>Features</Strong>
 
