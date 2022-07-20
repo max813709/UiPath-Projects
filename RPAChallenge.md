@@ -9,9 +9,9 @@ Microsoft Excel: Store customer information
 ## <strong> Features </strong>
 Scrapes customer information stored on Excel. Uses UI Attended Automation to insert customer information and simultaneously submitting the form set of entry data.
 
-![image]{"C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141735.png"}
+![image]{C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141735.png}
 
-![image]{"C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141737.png"}
+![image]{C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141737.png}
 
 ## <strong> Contributors </strong>
 Matthew Emsak
