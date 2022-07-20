@@ -1,0 +1,19 @@
+# RPA Challenge
+An RPA automation demo project
+
+## Technologies Used
+UiPath Studio 2020.10.7+: Development Environment.
+RPA Challenge website: a simulated form entry demo site.
+Microsoft Excel: Store customer information
+
+## Features
+Scrapes customer information stored on Excel. Uses UI Attended Automation to insert customer information and simultaneously submitting the form set of entry data.
+![image]{"C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141735.png"}
+
+![image]{"C:\Users\force\OneDrive\Desktop\Screenshot 2022-07-20 141737.png"}
+
+## Contributors
+Matthew Emsak
+
+## License
+This project uses the following license: MiT.
