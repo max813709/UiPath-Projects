@@ -2,11 +2,11 @@
 An RPA automation data scraping project
 
 ## <strong> Technologies Used </strong>
-UiPath Studio 2020.10.7+: Development Environment.
+[UiPath Studio 2020.10.7+](https://www.uipath.com/product/studio): Development Environment.
 
-RPA Challenge website: a simulated form entry demonstration site.
+[RPA Challenge website](https://rpachallenge.com/): a simulated form entry demonstration site.
 
-Microsoft Excel: Store customer information
+Microsoft Excel: Used to store customer information
 
 ## <strong> Features </strong>
 Scrapes customer information stored on Excel. Uses UI Attended Automation to insert customer information and simultaneously submits the form with set of entry data.
