@@ -4,7 +4,7 @@ An RPA automation data scraping project
 ## <strong> Technologies Used </strong>
 UiPath Studio 2020.10.7+: Development Environment.
 
-RPA Challenge website: a simulated form entry demo site.
+RPA Challenge website: a simulated form entry demonstration site.
 
 Microsoft Excel: Store customer information
 
