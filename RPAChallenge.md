@@ -1,5 +1,5 @@
 # <strong> RPA Challenge </strong>
-An RPA automation demo project
+An RPA automation data scraping project
 
 ## <strong> Technologies Used </strong>
 UiPath Studio 2020.10.7+: Development Environment.
@@ -8,7 +8,6 @@ Microsoft Excel: Store customer information
 
 ## <strong> Features </strong>
 Scrapes customer information stored on Excel. Uses UI Attended Automation to insert customer information and simultaneously submits the form with set of entry data.
-
 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/052db5f43a610e596581af96ba892aea795e75b9/Screenshot%202022-07-20%20141735.jpeg">
 
