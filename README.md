@@ -46,9 +46,7 @@ Writes a profit report for all simulated customers that is automated to be email
 
 Matthew Emsak
 
-Marielle Nolasco (trainer)
-
-Marielle's RPA Batch 4.25.22
+Marielle Nolasco
 
 ## <strong>License</strong>
 
