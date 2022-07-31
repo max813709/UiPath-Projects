@@ -8,7 +8,7 @@ a stock price tracking automation using UiPath.
 
 [Yahoo finance website](https://finance.yahoo.com/trending-tickers/): A continuous stock reporting webpage.
 
-[UiPath Orchestrator](www.cloud.uipath.com/): A functionality that enables a timed trigger of stock price recording.
+[UiPath Orchestrator](www.cloud.uipath.com/): A functionality that enables the timed trigger for stock price recording.
 
 Microsoft Excel: Used to store customer information
 
