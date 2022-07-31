@@ -1,8 +1,8 @@
-<strong> # Stock Tracker </strong>
+# <strong> Stock Tracker </strong>
 
 a stock price tracking automation using UiPath.
 
-<strong> ## Technologies Used </strong>
+## <strong> Technologies Used </strong>
 
 [UiPath Studio 2020.10.7+](https://www.uipath.com/product/studio): Development Environment.
 
@@ -12,7 +12,7 @@ a stock price tracking automation using UiPath.
 
 Microsoft Excel: Used to store customer information
 
-<strong> ## Features </strong>
+## <strong> Features </strong>
 
 Scrapes web page for stock prices and automates recording the list in UiPath.
 
