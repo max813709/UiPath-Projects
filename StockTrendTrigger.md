@@ -1,6 +1,6 @@
 # <strong> Stock Tracker </strong>
 
-a stock price tracking automation using UiPath.
+A stock price tracking automation using UiPath.
 
 ## <strong> Technologies Used </strong>
 
