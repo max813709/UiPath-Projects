@@ -1,6 +1,6 @@
-# <strong> Stock Tracker </strong>
+# <strong> Stock Tracker using REFramework </strong>
 
-A stock price tracking automation using UiPath.
+A stock price tracking automation using UiPath and REFramework.
 
 ## <strong> Technologies Used </strong>
 
@@ -10,11 +10,14 @@ A stock price tracking automation using UiPath.
 
 [UiPath Orchestrator](www.cloud.uipath.com/): A functionality that enables the timed trigger for stock price recording.
 
+
 Microsoft Excel: Used to store customer information.
 
 ## <strong> Features </strong>
 
 Scrapes web page for stock prices and automates recording the list in UiPath.
+
+Adds request to a queue.
 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/main/Screenshot%202022-07-31%20181843.jpg">
 
