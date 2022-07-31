@@ -10,7 +10,7 @@ A stock price tracking automation using UiPath.
 
 [UiPath Orchestrator](www.cloud.uipath.com/): A functionality that enables the timed trigger for stock price recording.
 
-Microsoft Excel: Used to store customer information
+Microsoft Excel: Used to store customer information.
 
 ## <strong> Features </strong>
 
