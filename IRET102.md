@@ -1,6 +1,6 @@
 # <strong> IRET102 </strong> #
 
-## <strong> Features </strong> ##
+## <strong> Description </strong> ##
 
 An automated method of logging into IBS Insight to acquire page-scrapped details and record several account details on Excel.
 
