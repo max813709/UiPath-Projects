@@ -33,7 +33,8 @@ Setting Up Automations
 4.	Navigate to package directory on robot machines, usually located in %userprofile%.nuget\packages.
 5.	Open config.xlsx in 1.x.x\lib\net45\Data directory of dispatcher and set the queue name.
 6.	Optionally set the path to the directory for input data workbooks. The default directory for input data is the Input folder in this directory.
-Contributors
+
+### Contributors ###
 •	Thomas Vo
 •	Zaur Yusupov
 •	Esther Parson
