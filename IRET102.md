@@ -28,6 +28,9 @@ An automated method of logging into IBS Insight to acquire page-scrapped details
 •	Split project goals into several workflows
 •	Used Email automation to forward excel file to user
 
+![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/3ca8c45c98dd94236520d8dcaded3765c86c1014/image-2.png">
+
+
 ## <strong> Contributors </strong>
 Matthew Emsak
 
