@@ -1,16 +1,21 @@
-PROJECT NAME
-Project Description
+# <strong> Next Gen Automation </strong>
+
+## <strong> Project Description </strong>
+
 Automation to construct an automation robot that establishes foundations (P1) project boards for new Next Gen cohorts on Trello.
 Technologies Used
 •	Tech 1 - Trello API
 •	Tech 2 - UiPath Studio 2020.10.7
 •	Tech 3 - Orchestrator 22.4.1
-Features
+
+## <strong> Features </strong>
+
 List of features ready and TODOs for future development
 •	Consume data to create Next Gen Trello project boards for new associate cohorts.
 •	Create a new list on the project board for each associate in the cohort with week 1 requirements upon initialization.
 •	Add the weekly requirements at specific timeframes through Orchestrator triggers.
-To-do list:
+
+### <strong> To-do list: </strong>
 •	Construct an automation robot that can distribute relevant information to cohort trainers and managers when a training phase begins and ends.
 •	Set dates for the beginning and end of each training phase.
 •	Request pdf exit evaluation reports from the QC analyst at the end of each phase.
