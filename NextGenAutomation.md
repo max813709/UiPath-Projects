@@ -10,7 +10,7 @@ Technologies Used
 
 ## <strong> Features </strong>
 
-List of features ready and TODOs for future development
+List of features ready and todos for future development
 •	Consume data to create Next Gen Trello project boards for new associate cohorts.
 •	Create a new list on the project board for each associate in the cohort with week 1 requirements upon initialization.
 •	Add the weekly requirements at specific timeframes through Orchestrator triggers.
