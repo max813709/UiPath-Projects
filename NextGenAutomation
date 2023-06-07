@@ -1,6 +1,6 @@
-# <strong> Next Gen Automation </strong>
+# <strong> Next Gen Automation </strong> #
 
-## <strong> Project Description </strong>
+## <strong> Project Description </strong> ##
 
 Automation to construct an automation robot that establishes foundations (P1) project boards for new Next Gen cohorts on Trello.
 Technologies Used
@@ -20,7 +20,8 @@ List of features ready and TODOs for future development
 •	Set dates for the beginning and end of each training phase.
 •	Request pdf exit evaluation reports from the QC analyst at the end of each phase.
 •	Send automated emails to trainers at the beginning and end of each training phase.
-Setting Up Orchestrator and Accounts
+
+### <strong> Setting Up Orchestrator and Accounts </strong>
 1.	In Orchestrator, create a queue to contain the transaction items for the automation.
 2.	Create assets and assign its file path in the value section.
 3.	Create a Trello account that will have access to the workspace containing the Project 1 boards and generate an API key and token.
@@ -41,9 +42,4 @@ Contributors
 •	Trianna Nunes
 •	Sylvester Gold
 •	Matthew Emsak
-
-•	API
-•	Training
-•	Blog
-•	About
 
