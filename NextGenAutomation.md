@@ -44,3 +44,6 @@ Setting Up Automations
 •	Sylvester Gold
 •	Matthew Emsak
 
+## License ##
+This project uses the following license: MiT.
+
