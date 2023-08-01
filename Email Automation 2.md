@@ -21,7 +21,7 @@ An automated method of composing emails from Gmail into HTML format and forwardi
 •	Used string manipulation to edit a CSV file and format it for the email automation
 •	Logged into G-Suite to use a customized Gmail centered API
 •	Used a for each loop and variable manipulation as well as the G-Suite activity to format the emails in HTML
-•	Composed emails to the appropriate recipiants in Draft format
+•	Composed emails to the appropriate recipiants in Draft format, including CC'ed email addresses, respectively
 
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/f695089b17d8f57fd60696fd792cfd82d250b0d4/Screenshot%202023-08-01%20101625.png">
 
