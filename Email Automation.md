@@ -8,7 +8,7 @@ An automated method of composing emails from Gmail into HTML format and forwardi
 
 [UiPath Studio 2020.10.7+](https://www.uipath.com/product/studio): Development Environment.
 
-[G Suite]:(https://console.cloud.google.com/apigee/welcome?project=email-automation-follow-up) A webpage that holds info on a customized gmail API.
+[G Suite](https://console.cloud.google.com/apigee/welcome?project=email-automation-follow-up): A webpage that holds info on a customized gmail API.
 
 [UiPath Orchestrator](www.cloud.uipath.com/): A functionality that enables the timed trigger for stock price recording.
 
