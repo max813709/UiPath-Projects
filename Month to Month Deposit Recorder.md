@@ -25,7 +25,7 @@ An automated recorder from excel file to excel file of the Daily Ending Ledger f
 •	Used variable manipulation, concatenation and the assign activities
 
 ## <strong> Contributors </strong>
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong>
 This project uses the following license: MiT.
