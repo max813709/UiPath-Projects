@@ -42,7 +42,7 @@ Setting Up Automations
 •	Ying Fan
 •	Trianna Nunes
 •	Sylvester Gold
-•	Matthew Emsak
+•	Max Emsak
 
 ## License ##
 This project uses the following license: MiT.
