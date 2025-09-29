@@ -32,7 +32,7 @@ while simultaneously formatting one of these reports with a macro.
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/654bcbce720f972b725548dfb7e25a2643181bcd/image-8.png">
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
