@@ -44,7 +44,7 @@ Writes a profit report for all simulated customers that is automated to be email
 
 ## <strong>Contributors</strong>
 
-Matthew Emsak
+Max Emsak
 
 Marielle Nolasco
 
