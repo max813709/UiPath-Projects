@@ -32,7 +32,7 @@ An automated method of logging into IBS Insight to acquire page-scrapped details
 
 
 ## <strong> Contributors </strong>
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong>
 This project uses the following license: MiT.
