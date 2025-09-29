@@ -28,7 +28,7 @@ An automated method of logging into IBS Insight, recording several balances thro
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/3ca8c45c98dd94236520d8dcaded3765c86c1014/image-4.png">
   
 ## <strong> Contributors </strong>
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong>
 This project uses the following license: MiT.
