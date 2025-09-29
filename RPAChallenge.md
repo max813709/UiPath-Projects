@@ -16,7 +16,7 @@ Scrapes customer information stored on Excel. Uses UI Attended Automation to ins
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/3208b90306650b04039b4fff7dde7d86eca8bbbf/Screenshot%202022-07-20%20152839.png">
 
 ## <strong> Contributors </strong>
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong>
 This project uses the following license: MiT.
