@@ -27,7 +27,7 @@ Uses orchestrator to add a timed trigger for, in this case, daily updates of sto
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/main/Screenshot%202022-07-31%20182007.jpg">
 
 ## <strong> Contributors </strong>
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong>
 This project uses the following license: MiT.
