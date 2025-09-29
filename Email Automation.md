@@ -28,7 +28,7 @@ An automated method of composing emails from Gmail into HTML format and forwardi
 ![]()<img width="723" alt="image" src="https://github.com/matthew813709/Gitimages/blob/da85acddc45361f2ea77beed0fb540b5ef4d1fe1/Screenshot%202023-08-01%20102549.png">
 
 ## <strong> Contributors </strong> ##
-Matthew Emsak
+Max Emsak
 
 ## <strong> License </strong> ##
 This project uses the following license: MiT.
